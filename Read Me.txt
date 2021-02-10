@@ -1,0 +1,7 @@
+Please follow below guidelines to run project.
+
+1. Open folder in terminal.
+2. Install dependencies using following command "npm install"
+3. After installation is complete type command "npm start" to run the project.
+
+Thank You
